@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-06-20",
+  "items": [
+    {
+      "id": "premium_pass",
+      "name": "Premium Pass",
+      "description": "Unlock exclusive jobs, vehicles, and perks",
+      "price": "$9.99",
+      "category": "premium",
+      "image": "premium_pass.jpg"
+    },
+    {
+      "id": "starter_pack",
+      "name": "Starter Pack",
+      "description": "Cash boost + custom outfit to start strong",
+      "price": "$4.99",
+      "category": "bundle",
+      "image": "starter_pack.jpg"
+    }
+  ]
+}
